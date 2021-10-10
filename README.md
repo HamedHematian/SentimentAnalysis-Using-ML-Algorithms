@@ -9,4 +9,4 @@
 * KNN
 * Neural Network
 
-## In the second notebook some other analysis has been done. i applied some unsupervised algorithms to cluster and visualize the 45,000 dataset. in the last part of experiment i tried to apply <code>trasfer learning</code> to a smaller dasaset (including )
+### In the second notebook some other analysis has been done. i applied some unsupervised algorithms to cluster and visualize the 45,000 dataset. in the last part of experiment i tried to apply <code>trasfer learning</code> to a smaller dasaset (including )
