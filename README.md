@@ -1,6 +1,6 @@
 # Sentiment Analysis Using ML Algorithms 
 
-#### In this project an extensive experiment has been done on sentiment analysis using diffrenet types of machine learning algorithms. This project also includes visualization of conclusions. There are two notebooks which are arranged as follows (<span style="color:orange;">This project is my final project of ML course in university</span>)
+#### In this project an extensive experiment has been done on sentiment analysis using diffrenet types of machine learning algorithms. This project also includes visualization of conclusions. There are two notebooks which are arranged as follows (<span style="color:red;">This project is my final project of ML course in university</span>)
 
 
 #### Notebook 1
