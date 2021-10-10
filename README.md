@@ -9,4 +9,9 @@
 * KNN
 * Neural Network
 
-#### In the second notebook some other analysis has been done. i applied some unsupervised algorithms to cluster and visualize the 45,000 dataset. in the last part of experiment i tried to apply <code>trasfer learning</code> to a smaller dasaset (including )
+#### In the second notebook some other analysis has been done. i applied some unsupervised algorithms to cluster and visualize the 45,000 dataset. in the last part of experiment i tried to apply <code>trasfer learning</code> from the best model on the larger dataset to a smaller dasaset (including 500 comments). algorithms implemented in the second notebook are as follows
+
+* Kmeans
+* Guassian Mixture Model
+* PCA
+* Neural Network
