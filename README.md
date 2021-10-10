@@ -17,5 +17,6 @@ In the second notebook some other analysis has been done. i applied some unsuper
 
 * Kmeans
 * Guassian Mixture Model
+* Mini-Batch Kmeans
 * PCA
 * Neural Network
