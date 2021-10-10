@@ -1,4 +1,4 @@
-# SentimentAnalysis Using ML Algorithms
+# Sentiment Analysis Using ML Algorithms
 
 ### In this project an extensive experiment has been done on sentiment analysis using diffrenet types of machine learning algorithms. This project also includes visualization of conclusions. There are two notebooks which are arranged as follows
 
